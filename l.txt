@@ -1,0 +1,4 @@
+total 4
+-rw-rw-r-- 1 bryan bryan  0 Apr 18 13:04 l.txt
+-rw-rw-r-- 1 bryan bryan  0 Apr 18 12:58 README.md
+-rw-rw-r-- 1 bryan bryan 30 Apr 18 13:01 tut01.sh
